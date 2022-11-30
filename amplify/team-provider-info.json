@@ -17,6 +17,9 @@
       },
       "api": {
         "serverlesseventdrive": {}
+      },
+      "storage": {
+        "amplifystoretage": {}
       }
     }
   }
