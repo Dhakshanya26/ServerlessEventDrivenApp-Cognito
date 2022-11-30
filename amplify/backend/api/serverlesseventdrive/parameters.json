@@ -1,5 +1,0 @@
-{
-  "AppSyncApiName": "serverlesseventdrive",
-  "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
-}
